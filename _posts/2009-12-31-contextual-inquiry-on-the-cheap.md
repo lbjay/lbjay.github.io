@@ -16,7 +16,7 @@ categories:
 I thought I&#8217;d share the [interview outline][1] I&#8217;ve been using to conduct some low effort contextual inquiry sessions with [ADS][2] users.
 
 <div id="attachment_116" style="width: 160px" class="wp-caption alignright">
-  <a href="http://docs.google.com/View?id=df2kgdvp_272d9mbxrfg"><img class="size-thumbnail wp-image-116 " title="interview outline" src="http://blog.reallywow.com/wp-content/uploads/2009/12/interview1-150x150.png" alt="" width="150" height="150" /></a>
+  <a href="http://docs.google.com/View?id=df2kgdvp_272d9mbxrfg"><img class="size-thumbnail wp-image-116 " title="interview outline" src="http://blog.reallywow.com/static/uploads/2009/12/interview1-150x150.png" alt="" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     thumbnail links to google doc

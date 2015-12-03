@@ -32,7 +32,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
 
 <p style="text-align: center;">
   <div id="attachment_147" style="width: 310px" class="wp-caption aligncenter">
-    <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks.png"><img class="size-medium wp-image-147 " title="gridworks" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks-300x191.png" alt="" width="300" height="191" /></a>
+    <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks.png"><img class="size-medium wp-image-147 " title="gridworks" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks-300x191.png" alt="" width="300" height="191" /></a>
     
     <p class="wp-caption-text">
       Initial data load plus some derived columns
@@ -110,7 +110,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
   </ul>
   
   <div id="attachment_148" style="width: 287px" class="wp-caption aligncenter">
-    <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_linktype.png"><img class="size-full wp-image-148 " title="gridworks_linktype" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_linktype.png" alt="" width="277" height="143" /></a>
+    <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks_linktype.png"><img class="size-full wp-image-148 " title="gridworks_linktype" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks_linktype.png" alt="" width="277" height="143" /></a>
     
     <p class="wp-caption-text">
       Still to be determined how many of the url links point to some kind of data
@@ -118,7 +118,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
   </div>
   
   <div id="attachment_149" style="width: 284px" class="wp-caption aligncenter">
-    <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_parenttag.png"><img class="size-full wp-image-149" title="gridworks_parenttag" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_parenttag.png" alt="" width="274" height="260" /></a>
+    <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks_parenttag.png"><img class="size-full wp-image-149" title="gridworks_parenttag" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks_parenttag.png" alt="" width="274" height="260" /></a>
     
     <p class="wp-caption-text">
       Knowing the container could help parsing out something about the semantics of the link
@@ -127,7 +127,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
   
   <p style="text-align: center;">
     <div id="attachment_150" style="width: 284px" class="wp-caption aligncenter">
-      <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_status.png"><img class="size-full wp-image-150" title="gridworks_status" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_status.png" alt="" width="274" height="370" /></a>
+      <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks_status.png"><img class="size-full wp-image-150" title="gridworks_status" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks_status.png" alt="" width="274" height="370" /></a>
       
       <p class="wp-caption-text">
         ~70% 200's was more than I expected. Of course 200 doesn't mean it actually found something interesting.
@@ -135,7 +135,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
     </div>
     
     <div id="attachment_151" style="width: 283px" class="wp-caption aligncenter">
-      <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_contenttype.png"><img class="size-full wp-image-151" title="gridworks_contenttype" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_contenttype.png" alt="" width="273" height="473" /></a>
+      <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks_contenttype.png"><img class="size-full wp-image-151" title="gridworks_contenttype" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks_contenttype.png" alt="" width="273" height="473" /></a>
       
       <p class="wp-caption-text">
         would have hoped for fewer text/html
@@ -143,7 +143,7 @@ I can&#8217;t post the entire Gridworks project, but here&#8217;s some screencap
     </div>
     
     <div id="attachment_152" style="width: 285px" class="wp-caption aligncenter">
-      <a href="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_domain.png"><img class="size-full wp-image-152  " title="gridworks_domain" src="http://blog.reallywow.com/wp-content/uploads/2010/05/gridworks_domain.png" alt="" width="275" height="321" /></a>
+      <a href="http://blog.reallywow.com/static/uploads/2010/05/gridworks_domain.png"><img class="size-full wp-image-152  " title="gridworks_domain" src="http://blog.reallywow.com/static/uploads/2010/05/gridworks_domain.png" alt="" width="275" height="321" /></a>
       
       <p class="wp-caption-text">
         All the gcn.gsfc.nasa.gov hits look like observation reports, like this one, which I think is a good thing

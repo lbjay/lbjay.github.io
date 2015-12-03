@@ -22,7 +22,7 @@ The following set of criteria is what [jjzach][1] & I use for the purposes of cl
   * **Digestibility **&#8211; how do you feel afterwards? How about 45 minutes into the ride home in the backseat?
 
 <p style="text-align: center;">
-  <a rel="lightbox" href="http://www.f00die.com/wp-content/uploads/2009/07/chowder.jpg"><img class="aligncenter size-medium wp-image-215" title="The origins of the Clam Chowder Criteria" src="http://www.f00die.com/wp-content/uploads/2009/07/chowder-300x202.jpg" alt="The origins of the Clam Chowder Criteria" width="300" height="202" /></a>
+  <a rel="lightbox" href="http://www.f00die.com/static/uploads/2009/07/chowder.jpg"><img class="aligncenter size-medium wp-image-215" title="The origins of the Clam Chowder Criteria" src="http://www.f00die.com/static/uploads/2009/07/chowder-300x202.jpg" alt="The origins of the Clam Chowder Criteria" width="300" height="202" /></a>
 </p>
 
 These are mostly subjective measurements, of course. Some folks, for example, like their chowder thick and creamy and might rate highly a variation in which their spoon stands up in the cup. Needless to say, others would give that a very low Thicknocity score.

@@ -8,7 +8,7 @@ categories:
 ---
 <abbr class="unapi-id" title=""><!-- &nbsp; --></abbr> 
 
-<img style="float:right" src='http://www.f00die.com/wp-content/uploads/2007/06/chow.gif' alt='Chow, baby.' />The other day, in response to a Chow.com post requesting suggestions for good eats near the Cambridge/Belmont line, I received the following message from the moderators at Chow.com:
+<img style="float:right" src='http://www.f00die.com/static/uploads/2007/06/chow.gif' alt='Chow, baby.' />The other day, in response to a Chow.com post requesting suggestions for good eats near the Cambridge/Belmont line, I received the following message from the moderators at Chow.com:
 
 bq. \*Subject: Chowhound &#8211; Note from Moderator\*
 

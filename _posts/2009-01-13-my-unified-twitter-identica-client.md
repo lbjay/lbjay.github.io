@@ -53,7 +53,7 @@ Step 8, create a new window in the bottom pane with the screen command **<span s
 Step 9, start the Twitter session in the bottom pane with the command <span style="color: #000080;"><strong>ttytter.pl -rc=2</strong></span>
 
 <div id="attachment_25" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://blog.reallywow.com/wp-content/uploads/2009/01/ttytter.png"><img class="size-medium wp-image-25" title="ttytter" src="http://blog.reallywow.com/wp-content/uploads/2009/01/ttytter-300x267.png" alt="Example screenshot" width="300" height="267" /></a>
+  <a href="http://blog.reallywow.com/static/uploads/2009/01/ttytter.png"><img class="size-medium wp-image-25" title="ttytter" src="http://blog.reallywow.com/static/uploads/2009/01/ttytter-300x267.png" alt="Example screenshot" width="300" height="267" /></a>
   
   <p class="wp-caption-text">
     Example screenshot

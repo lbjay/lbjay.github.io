@@ -8,7 +8,7 @@ categories:
 ---
 <abbr class="unapi-id" title=""><!-- &nbsp; --></abbr> 
 
-##### Sunday<a rel="lightbox" href="http://www.f00die.com/wp-content/uploads/2008/02/dsc05866.JPG" title="Workin’ on the menu"><img src="http://www.f00die.com/wp-content/uploads/2008/02/dsc05866.JPG" style="width: 150px; height: 200px" title="Workin' on the menu; Needing a neck shave" alt="Workin' on the menu; Needing a neck shave" align="right" height="200" width="150" /></a>
+##### Sunday<a rel="lightbox" href="http://www.f00die.com/static/uploads/2008/02/dsc05866.JPG" title="Workin’ on the menu"><img src="http://www.f00die.com/static/uploads/2008/02/dsc05866.JPG" style="width: 150px; height: 200px" title="Workin' on the menu; Needing a neck shave" alt="Workin' on the menu; Needing a neck shave" align="right" height="200" width="150" /></a>
 
   * [Ecuadorian Potato Stew][1] w/ Chicken
 

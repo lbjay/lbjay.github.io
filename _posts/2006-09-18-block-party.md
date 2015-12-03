@@ -10,7 +10,7 @@ categories:
 
 Our neighborhood had it&#8217;s 5th annual block party yesterday afternoon. Jenny &#038; I have been fixtures since year one. It takes place in the park right across the street from our house, so it&#8217;s almost like having a big party in our front yard.
 
-<img align="middle" alt="p1010098.JPG" id="image34" title="p1010098.JPG" src="http://www.f00die.com/wp-content/uploads/2006/09/p1010098.JPG" />
+<img align="middle" alt="p1010098.JPG" id="image34" title="p1010098.JPG" src="http://www.f00die.com/static/uploads/2006/09/p1010098.JPG" />
 
 Our contributions included a big dish of [pulled-pork BBQ][1] (saved and frozen from the previous weekend) and some hot dogs with [Sweet Jalapeno Relish][2]. An unidentifed attendee brought some really excellent baked beans that went well with the BBQ. Both received very good reviews.
 
