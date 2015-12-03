@@ -8,7 +8,7 @@ categories:
 ---
 <abbr class="unapi-id" title=""><!-- &nbsp; --></abbr> 
 
-<a rel="lightbox" href="http://www.f00die.com/static/uploads/2007/12/2051351230_0fb4d5282f.jpg" title="Winter Share #1"><img src="http://www.f00die.com/static/uploads/2007/12/2051351230_0fb4d5282f.jpg" title="Winter Share #1" alt="Winter Share #1" align="right" height="266" width="200" /></a>We&#8217;re on the 2nd winter share from our new CSA. As you might imagine, it&#8217;s been lots of potatoes, turnips, squash, carrots and parsnips. Excellent dishes made from this include:
+<a rel="lightbox" href="http://blog.reallywow.com/static/uploads/2007/12/2051351230_0fb4d5282f.jpg" title="Winter Share #1"><img src="http://blog.reallywow.com/static/uploads/2007/12/2051351230_0fb4d5282f.jpg" title="Winter Share #1" alt="Winter Share #1" align="right" height="266" width="200" /></a>We&#8217;re on the 2nd winter share from our new CSA. As you might imagine, it&#8217;s been lots of potatoes, turnips, squash, carrots and parsnips. Excellent dishes made from this include:
 
   * Braised turnips & greens
   * Veggie Shepherd&#8217;s Pie

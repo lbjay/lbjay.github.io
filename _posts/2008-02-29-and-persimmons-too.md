@@ -10,6 +10,6 @@ categories:
 
 I&#8217;m just impressed with how much thought actually went into this. Click for the punchline.
 
-[<img src="http://www.f00die.com/static/uploads/2008/02/fuck_grapefruit.png" alt="fuck_grapefruit.png" height="344" width="400" />][1]
+[<img src="http://blog.reallywow.com/static/uploads/2008/02/fuck_grapefruit.png" alt="fuck_grapefruit.png" height="344" width="400" />][1]
 
  [1]: http://xkcd.com/388/ "fuck_grapefruit.png"

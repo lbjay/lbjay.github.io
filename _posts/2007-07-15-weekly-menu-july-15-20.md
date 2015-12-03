@@ -45,4 +45,4 @@ h5. Friday
 * salad
 
  [1]: http://www.boston.com/news/globe/magazine/articles/2007/07/15/no_strings_attached/
- [2]: http://www.f00die.com/2007/07/15/patio-fries/
+ [2]: http://blog.reallywow.com/2007/07/15/patio-fries/

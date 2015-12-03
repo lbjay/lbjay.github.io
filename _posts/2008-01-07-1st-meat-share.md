@@ -8,7 +8,7 @@ categories:
 ---
 <abbr class="unapi-id" title=""><!-- &nbsp; --></abbr> 
 
-<a rel="lightbox" href="http://www.f00die.com/static/uploads/2008/01/img_2189.JPG" title="Meat Share"><img src="http://www.f00die.com/static/uploads/2008/01/img_2189.JPG" title="Meat Share" alt="Meat Share" align="right" height="172" width="224" /></a>We picked up our 1st [Chestnut Farm][1] CSA meat share yesterday. 10 lbs of neatly wrapped yummy in a little red Playmate cooler. The share contained:
+<a rel="lightbox" href="http://blog.reallywow.com/static/uploads/2008/01/img_2189.JPG" title="Meat Share"><img src="http://blog.reallywow.com/static/uploads/2008/01/img_2189.JPG" title="Meat Share" alt="Meat Share" align="right" height="172" width="224" /></a>We picked up our 1st [Chestnut Farm][1] CSA meat share yesterday. 10 lbs of neatly wrapped yummy in a little red Playmate cooler. The share contained:
 
   * 1 whole chicken
   * 2 lamb shoulder chops

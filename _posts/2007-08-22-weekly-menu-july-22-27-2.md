@@ -38,5 +38,5 @@ h5. Friday
 * Date/Movie Night
 
  [1]: http://www.101cookbooks.com/archives/my-favorite-grilled-kabobs-recipe.html
- [2]: http://www.f00die.com/2007/08/07/grilled-corn-cherry-tomato-salad/
+ [2]: http://blog.reallywow.com/2007/08/07/grilled-corn-cherry-tomato-salad/
  [3]: http://www.initaly.com/itathome/food/caprese.htm

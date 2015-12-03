@@ -15,7 +15,7 @@ OK, so first off, the new oven is awesome for pizza. Heats up real good, got the
 
 So anyway, I&#8217;m making pizza. I had the cheese, the dough, the pinapple and thought I had the sauce&#8230;
 
-But I had no sauce. <img src="http://www.f00die.com/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+But I had no sauce. <img src="http://blog.reallywow.com/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 The oven was already pre-heating so I had to think fast. Operating on the belief that pizza sauce is just a sweeter, basic tomato sauce, I threw together the following:
 

@@ -20,4 +20,4 @@ Made this on Saturday with the first of our harvested habanero peppers. The reci
 * 2 medium carrots  
 * a couple of ice cubes
 
-Mix the first six ingredients together in a large bowl. Peel and slice the cukes and carrots (I used my mandoline to get them pretty thin). Add the veggies to the dressing and toss. Before serving, add in a couple of ice cubes and toss some more. According to the original recipe this is supposed to crisp up the veggies, and I can attest that they were crisp. <img src="http://www.f00die.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Mix the first six ingredients together in a large bowl. Peel and slice the cukes and carrots (I used my mandoline to get them pretty thin). Add the veggies to the dressing and toss. Before serving, add in a couple of ice cubes and toss some more. According to the original recipe this is supposed to crisp up the veggies, and I can attest that they were crisp. <img src="http://blog.reallywow.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

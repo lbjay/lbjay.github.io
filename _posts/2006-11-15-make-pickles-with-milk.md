@@ -16,7 +16,7 @@ I was reading [this Slashfood post][1] which linked to [this article][2] on how 
 
 Sounds tasty! Be careful though: *&#8220;results are not always predictable.&#8221;*
 
-There are lots of other interesting food-related articles on the [westonaprice.org][4] site, but I&#8217;d never heard about this organization. Something about the site seemed slightly&#8230; odd. I got curious and decided to dig a little to make sure I wasn&#8217;t linking to some weird cult or something. The Wikipedia entry on them is intriguing but pretty tame. The most controversial thing about them seems to be an aversion to soy. <img src="http://www.f00die.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+There are lots of other interesting food-related articles on the [westonaprice.org][4] site, but I&#8217;d never heard about this organization. Something about the site seemed slightly&#8230; odd. I got curious and decided to dig a little to make sure I wasn&#8217;t linking to some weird cult or something. The Wikipedia entry on them is intriguing but pretty tame. The most controversial thing about them seems to be an aversion to soy. <img src="http://blog.reallywow.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://www.slashfood.com/2006/11/13/pickled-veggies-are-in-a-pickle/
  [2]: http://www.packagedfacts.com/corporate/press/Press_view.asp?Article=756

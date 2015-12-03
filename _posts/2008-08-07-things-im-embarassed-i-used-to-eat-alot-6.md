@@ -20,4 +20,4 @@ Thought of another thing to add to [my list][1]: faux lump crab meat. You know, 
 
 I worked at a Subway briefly in college. I used to eat the crap out of those seafood salad subs. And when I was mixing up the &#8220;seafood&#8221; & mayo in the back, if any stray bits of meat were left I&#8217;d eat those too.
 
- [1]: http://www.f00die.com/2007/09/09/5-things-im-embarrased-to-admit-i-used-to-eat-a-lot/
+ [1]: http://blog.reallywow.com/2007/09/09/5-things-im-embarrased-to-admit-i-used-to-eat-a-lot/

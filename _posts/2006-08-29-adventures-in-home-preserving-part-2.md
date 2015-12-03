@@ -14,5 +14,5 @@ Attempt #1 (several years ago) went awry in the recipe department. I&#8217;d had
 
 I&#8217;m not sure where that list is anymore, but it doesn&#8217;t matter because it all ended up in the trash anyway. Jar #1 came out waaay too vinegary. I don&#8217;t remember what was up with jar #2. Jar&#8217;s #3-12 were still in my basement until a few days ago, some furry mold beginning to form around the outside of the lid. So sad.
 
- [1]: http://www.f00die.com/2006/08/28/jalapeno-tomatillo-relish/ "Jalapeno &#038; Tomatillo Relish"
+ [1]: http://blog.reallywow.com/2006/08/28/jalapeno-tomatillo-relish/ "Jalapeno &#038; Tomatillo Relish"
  [2]: http://www.moonbrine.com/ "Moonbrine Pickles"

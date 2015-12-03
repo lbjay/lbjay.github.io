@@ -10,7 +10,7 @@ categories:
 
 Just upgraded to a McMansion and looking for things to fill your restaurant-sized kitchen?
 
-<img align="middle" title="Onion Goggles" id="image52" alt="Onion Goggles" src="http://www.f00die.com/static/uploads/2007/02/b000h40qt401-a11dftm2yqv5z4_aa280_sclzzzzzzz_.jpg" />
+<img align="middle" title="Onion Goggles" id="image52" alt="Onion Goggles" src="http://blog.reallywow.com/static/uploads/2007/02/b000h40qt401-a11dftm2yqv5z4_aa280_sclzzzzzzz_.jpg" />
 
 Yes, that&#8217;s right: [Onion Goggles][1]. They look like plain old safety glasses to me, but I guess it&#8217;s all about how you market things.
 

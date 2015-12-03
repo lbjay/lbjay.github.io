@@ -29,7 +29,7 @@ h5. Wednesday
 
 h5. Thursday
 
-* Fenway Franks and/or whatever else is available in our luxury suite <img src="http://www.f00die.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+* Fenway Franks and/or whatever else is available in our luxury suite <img src="http://blog.reallywow.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 h5. Friday
 
@@ -41,5 +41,5 @@ h5. Friday
  [1]: http://www.stephencooks.com/2007/05/grilled_marinat.html
  [2]: http://www.boston.com/ae/food/articles/2007/04/22/small_gifts_from_spain/
  [3]: http://www.recipezaar.com/235162
- [4]: http://www.f00die.com/2007/07/15/patio-fries/
+ [4]: http://blog.reallywow.com/2007/07/15/patio-fries/
  [5]: http://www.lexingtonfarmersmarket.org/

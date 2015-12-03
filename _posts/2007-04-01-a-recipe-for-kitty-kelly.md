@@ -10,7 +10,7 @@ categories:
 
 Make my own cat food? Sounded a little extreme when I first heard about this practice, but the recent recall of tons of pet food tainted with what was first thought to be rat poison, but now is being called melamine, has got me seriously considering it.
 
-<img align="right" title="Homemade cat food" id="image55" alt="Homemade cat food" src="http://www.f00die.com/static/uploads/2007/04/spoonintocontainers.jpg" />
+<img align="right" title="Homemade cat food" id="image55" alt="Homemade cat food" src="http://blog.reallywow.com/static/uploads/2007/04/spoonintocontainers.jpg" />
 
 The photo is from a [pictorial/recipe][1] at catnutrition.org. I fist came across it almost a year ago but dug it up again today after reading even more headlines about foods being added to the list. Looks yummy, huh?
 
